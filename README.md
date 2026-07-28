@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ISE-KAI
+- 👋 Hi, I’m @ISE-DEVSCH
 - 👀 I’m interested in ... KSP, HOI4, Cities:Skylines, War Thunder.
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... huijoon5436@naver.com
 
 <!---
